@@ -10,3 +10,4 @@
 6. Periksa urutan digit
    Jika digit1 > digit2 dan digit2 > digit3, maka tampilkan "true"
    Jika tidak, tampilkan "false"
+7. Akhiri program
